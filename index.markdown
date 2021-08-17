@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This is always be here.
+Page d'accueil

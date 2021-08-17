@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mes Produits
-permalink: /mes_produits/
+title: Me Retrouver
+permalink: /me_retrouver/
 ---
 
-# Mes Produits
+# Me Retrouver

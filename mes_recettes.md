@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Me Retrouver
-permalink: /mes_retrouver/
+title: Mes Recettes
+permalink: /mes_recettes/
 ---
 
-# Me Retrouver
+# Mes Recettes
