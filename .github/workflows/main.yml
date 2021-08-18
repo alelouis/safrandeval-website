@@ -14,6 +14,7 @@ on:
   workflow_dispatch:
 
 jobs:
+  environment: jekyll
   jekyll:
     name: Build and deploy Jekyll site
     runs-on: ubuntu-latest
