@@ -30,3 +30,14 @@ jobs:
       with: 
         name: site
         path: _site
+
+    - name: Sync file via SCP with SSH Key
+      uses: appleboy/scp-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        port: 22
+        key: ${{ secrets.KEY }}
+        source: "_site/*"
+        target: "/home/alelouis/safrandeval"
+      
