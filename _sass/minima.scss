@@ -7,23 +7,26 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
 
 // Define defaults for each variable.
 
 $safran-font-family: "Safran";
-$base-font-family: 'Merriweather', BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-family: 'Poppins', BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $base-font-size:   16px !default;
-$base-font-weight: 400 !default;
+$base-font-weight: 200 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$main-color:       #cc1e23 !default;
-$secondary-color:  #ffb039 !default;
-$text-color:       #111 !default;
+$main-color:       rgb(147, 41, 41) !default;
+$nav-color: rgb(147, 41, 41);
+$bright-color:       #ebb6b6 !default;
+$secondary-color:  #fff3e8 !default;
+$text-color:       rgb(147, 41, 41) !default;
 $background-color: $secondary-color !default;
-$content-color:    #ffd49d !default;
+$content-color:    $secondary-color !default;
 $brand-color:      $secondary-color !default;
 
 $grey-color:       #828282 !default;
@@ -33,7 +36,7 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    1000px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;

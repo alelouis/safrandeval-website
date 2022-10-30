@@ -120,7 +120,6 @@ a {
 
   &:hover {
     color: $text-color;
-    text-decoration: underline;
   }
 
   .social-media-list &:hover {
@@ -266,4 +265,18 @@ table {
   border-radius: 20px;
   border-color: black;
   margin-bottom: 5px;
+}
+
+.ban {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.right-image {
+  width: 80%;
+  border-radius: 15px;
+}
+
+.social-svg {
+  fill: red;
 }
