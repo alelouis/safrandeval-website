@@ -1,0 +1,75 @@
+[safransec]
+title = "Safran Sec"
+index = 1
+    [safransec.produit.safran_sec_0_2g]
+    class = "one"
+    name = "Safran sec - 0.2g"
+    description = """Test hello \n pourquoi pas"""
+    image = "placeholder.png"
+    [safransec.produit.safran_sec_0_5g]
+    class = "two"
+    name = "Safran sec - 0.5g"
+    description = "Placeholder"
+    image = "placeholder.png"
+    [safransec.produit.safran_sec_1g]
+    class = "three"
+    name = "Safran sec - 1g"
+    description = "Placeholder"
+    image = "placeholder.png"
+
+[creationssucrees]
+title = "Création sucrées"
+index = 2
+    [creationssucrees.produit.safran_sec_0_2g]
+    class = "one"
+    name = "Safran sec - 0.2g"
+    description = "Placeholder"
+    image = "placeholder.png"
+    [creationssucrees.produit.safran_sec_0_5g]
+    class = "two"
+    name = "Safran sec - 0.5g"
+    description = "Placeholder"
+    image = "placeholder.png"
+    [creationssucrees.produit.safran_sec_1g]
+    class = "three"
+    name = "Safran sec - 1g"
+    description = "Placeholder"
+    image = "placeholder.png"
+
+[creationsalees]
+title = "Création salées"
+index = 3
+    [creationsalees.produit.safran_sec_0_2g]
+    class = "one"
+    name = "Safran sec - 0.2g"
+    description = "Placeholder"
+    image = "placeholder.png"
+    [creationsalees.produit.safran_sec_0_5g]
+    class = "two"
+    name = "Safran sec - 0.5g"
+    description = "Placeholder"
+    image = "placeholder.png"
+    [creationsalees.produit.safran_sec_1g]
+    class = "three"
+    name = "Safran sec - 1g"
+    description = "Placeholder"
+    image = "placeholder.png"
+
+[jesaispas]
+title = "Je sais pas"
+index = 4
+    [jesaispas.produit.safran_sec_0_2g]
+    class = "one"
+    name = "Safran sec - 0.2g"
+    description = "Placeholder"
+    image = "placeholder.png"
+    [jesaispas.produit.safran_sec_0_5g]
+    class = "two"
+    name = "Safran sec - 0.5g"
+    description = "Placeholder"
+    image = "placeholder.png"
+    [jesaispas.produit.safran_sec_1g]
+    class = "three"
+    name = "Safran sec - 1g"
+    description = "Placeholder"
+    image = "placeholder.png"

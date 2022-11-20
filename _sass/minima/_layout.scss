@@ -320,7 +320,7 @@ $num-of-tabs: 4;
   width: 100%;
   position: relative;
   display: flex;
-  height: 1000px;
+  height: 100%;
 }
 
 input[type="radio"][name="tabs"] {
@@ -472,9 +472,61 @@ input[type="radio"][name="tabs"] {
   transform: scale(1.1);
 }
 
-
 .gallery-title {
   font-weight: 400;
   margin-top: 10px;
   text-align: center;
+}
+
+/** Modal window **/
+
+.modal-window {
+  position: flex;
+  background-color: rgba(79, 26, 26, 0);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 999;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s;
+  &:target {
+    visibility: visible;
+    opacity: 1;
+    pointer-events: auto;
+  }
+  & > div {
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -150%);
+    padding: 2em;
+    background: white;
+    border-radius: 15px;
+    filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.139));
+  }
+  header {
+    font-weight: bold;
+  }
+  h1 {
+    font-size: 200%;
+    margin: 0 0 40px;
+  }
+}
+
+.modal-close {
+  line-height: 50px;
+  font-size: 80%;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  width: 100px;
+  text-decoration: none;
+  &:hover {
+    color: black;
+  }
 }

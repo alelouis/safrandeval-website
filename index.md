@@ -12,7 +12,7 @@ permalink: /
 
  <div class="row">
   <div class="first-column">
-    C’est au <b>Sud de la Touraine, en pays de Richelieu</b>, au sein du parc Naturel Loire Anjou Touraine que nous avons planté notre safranière en <b>2007</b>, oeuvrant ainsi pour la diversification de l’exploitation agricole... 
+    C’est au <b>Sud de la Touraine, en pays de Richelieu</b>, au sein du parc Naturel Loire Anjou Touraine que nous avons planté notre safranière en <b>2007</b>, oeuvrant ainsi pour la diversification de l’exploitation agricole.
     <br/><br/>
     Et depuis cette date, je me passionne pour le safran, sa culture, sa saveur, son arôme et c’est sur cette terre de séduction qu’est né  <b>« SafrandeVal »</b>.<br/><br/>
     <b>Aujourd’hui, notre safranière s’étend sur un demi hectare, plantée sur des terrains argilo calcaires drainants.</b>
