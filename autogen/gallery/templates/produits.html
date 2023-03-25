@@ -1,0 +1,26 @@
+<div>
+    <h1>{{ title }}</h1>
+</div>
+
+<div class="overlay hidden"></div>
+<div class="body-modal">
+    <section class="modal hidden">
+        <div class="flex">
+        <button class="btn-close">⨉</button>
+        </div>
+        <div>
+            <h1 class="modal-title"></h1>
+            <p class="modal-description"></p>
+        </div>
+    </section>
+</div>
+
+<div class="main">
+    {% for item_name, item in tabs.items() %}
+    <div>
+        <a href=""></a>
+        <div class="gallery-image open-{{ item_name }}"><img src="./{{ item.image }}"></div>
+        <div class="gallery-title">{{ item.name }}</div>
+    </div>
+    {% endfor %}
+</div>
