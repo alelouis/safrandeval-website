@@ -4,37 +4,52 @@ index = 1
     [safransec.produit.safran_sec_0_2g]
     class = "one"
     name = "Safran sec - 0.2g"
-    description = """Test hello \n pourquoi pas"""
-    image = "placeholder.png"
+    description = """Placeholder"""
+    image = "safran_sec_02g.jpg"
     [safransec.produit.safran_sec_0_5g]
     class = "two"
     name = "Safran sec - 0.5g"
     description = "Placeholder"
-    image = "placeholder.png"
+    image = "safran_sec_05g.jpg"
     [safransec.produit.safran_sec_1g]
     class = "three"
     name = "Safran sec - 1g"
     description = "Placeholder"
-    image = "placeholder.png"
+    image = "safran_sec_1g.jpg"
+    [safransec.produit.safran_sec_2g]
+    class = "four"
+    name = "Safran sec - 2g"
+    description = "Placeholder"
+    image = "safran_sec_2g.jpg"
 
 [creationssucrees]
 title = "Création sucrées"
 index = 2
-    [creationssucrees.produit.safran_sec_0_2g]
+    [creationssucrees.produit.minimadeleine]
     class = "one"
-    name = "Safran sec - 0.2g"
-    description = "Placeholder"
-    image = "placeholder.png"
-    [creationssucrees.produit.safran_sec_0_5g]
+    name = "Mini madeleines safranées"
+    description = "Farine de blé Bio, sucre blanc, oeufs Bio, sel de Guérande, safran"
+    image = "sucrees/minimad.jpg"
+    [creationssucrees.produit.cookies_amande_safran]
     class = "two"
-    name = "Safran sec - 0.5g"
-    description = "Placeholder"
-    image = "placeholder.png"
-    [creationssucrees.produit.safran_sec_1g]
+    name = "Cookies amande safranées"
+    description = "Cassonade, amande entières, farine de blé Bio, beurre doux, oeufs Bio, pouvre à lever, sel de Guérande, safran."
+    image = "sucrees/cookie.jpg"
+    [creationssucrees.produit.Croconoix]
     class = "three"
-    name = "Safran sec - 1g"
-    description = "Placeholder"
-    image = "placeholder.png"
+    name = "Croc’O Noix safranés"
+    description = "Cassonade, noix de Touraine, beurre doux, farine de blé Bio, oeufs Bio, poudre à lever, sel de Guérande, safran."
+    image = "sucrees/croconoix.jpg"
+    [creationssucrees.produit.tendreschocolats]
+    class = "four"
+    name = "Tendres chocolat safranés"
+    description = "Farine de blé Bio, chocolat noir 65%, cassonade, beurre doux, oeufs Bio, cacao, sel de Guérande, safran."
+    image = "sucrees/tendreschoco.jpg"
+    [creationssucrees.produit.paletsraisins]
+    class = "five"
+    name = "Palets raisins safranés"
+    description = "Cassonade, farine de blé Bio, beurre doux, oeufs Bio, raisins secs bruns, rhum brun, sel de Guérande, safran."
+    image = "sucrees/palets.jpg"
 
 [creationsalees]
 title = "Création salées"
@@ -70,6 +85,11 @@ index = 4
     image = "placeholder.png"
     [jesaispas.produit.safran_sec_1g]
     class = "three"
+    name = "Safran sec - 1g"
+    description = "Placeholder"
+    image = "placeholder.png"
+    [jesaispas.produit.safran_sec_1g_2]
+    class = "four"
     name = "Safran sec - 1g"
     description = "Placeholder"
     image = "placeholder.png"

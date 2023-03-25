@@ -35,6 +35,14 @@
   }
 }
 
+@media (min-width: 100px) {
+  .site-title { font-size: 20px }
+}
+
+@media (min-width: 300px) {
+  .site-title { font-size: 100px }
+}
+
 .site-nav {
   line-height: $base-line-height * $base-font-size * 2;
   text-align: center;
@@ -465,68 +473,109 @@ input[type="radio"][name="tabs"] {
   margin: auto;
   filter: drop-shadow(0px 0px 2px $nav-color);
   transition: transform .2s; /* Animation */
+  text-align: center;
+}
+
+.gallery-image img{
+  border-radius: 15px;
 }
 
 .gallery-image:hover {
   cursor: pointer;
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 .gallery-title {
   font-weight: 400;
-  margin-top: 10px;
   text-align: center;
+  margin-top: 10px;
 }
 
-/** Modal window **/
 
-.modal-window {
-  position: flex;
-  background-color: rgba(79, 26, 26, 0);
+.body-modal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #222;
+  position: relative;
+}
+
+.modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.4rem;
+  padding: 1.3rem;
+  min-height: 250px;
+  position: absolute;
+  background-color: white;
+  border-radius: 10px;
+  z-index: 2;
+  top:-80px;
+}
+
+.modal .flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.modal input {
+  padding: 0.7rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 0.9em;
+}
+
+.modal p {
+  font-size: 0.9rem;
+  color: #777;
+  margin: 0.4rem 0 0.2rem;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  font-weight: 600;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.8rem 1.4rem;
+  font-weight: 700;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 1em;
+}
+
+.btn-open {
+  position: absolute;
+  bottom: 150px;
+}
+
+.btn-close {
+  transform: translate(10px, -20px);
+  padding: 0.5rem 0.7rem;
+  background: #eee;
+  border-radius: 50%;
+}
+
+.hidden {
+  display: none;
+}
+
+.overlay {
+  position: fixed;
   top: 0;
-  right: 0;
   bottom: 0;
   left: 0;
-  z-index: 999;
-  visibility: hidden;
-  opacity: 0;
-  pointer-events: none;
-  transition: all 0.3s;
-  &:target {
-    visibility: visible;
-    opacity: 1;
-    pointer-events: auto;
-  }
-  & > div {
-    width: 400px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -150%);
-    padding: 2em;
-    background: white;
-    border-radius: 15px;
-    filter: drop-shadow(0px 0px 5px rgba(0, 0, 0, 0.139));
-  }
-  header {
-    font-weight: bold;
-  }
-  h1 {
-    font-size: 200%;
-    margin: 0 0 40px;
-  }
-}
-
-.modal-close {
-  line-height: 50px;
-  font-size: 80%;
-  position: absolute;
   right: 0;
-  text-align: center;
-  top: 0;
-  width: 100px;
-  text-decoration: none;
-  &:hover {
-    color: black;
-  }
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(2px);
+  z-index: 1;
 }

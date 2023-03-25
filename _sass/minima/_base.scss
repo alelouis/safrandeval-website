@@ -99,12 +99,47 @@ h1, h2, h3, h4, h5, h6 {
   color: $main-color;
 }
 
+.box
+{
+  background: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+
+
+.main
+{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-rows: repeat(4, auto);
+  grid-gap: 20px;
+  grid-row-gap: 40px;
+  justify-content: center;
+  align-content: center;
+}
+
+#selection {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#selection a {
+  padding: 10px;
+}
+
 h1 {
   font-weight: $base-font-weight;
   font-size: 3em;
 }
 
+.selection_link {
+  color: $text-color !important;
+}
 
+.selection_link:hover {
+  color: $main-color !important;
+}
 
 
 /**
@@ -129,6 +164,7 @@ a {
       text-decoration: underline;
     }
   }
+  
 }
 
 
@@ -259,6 +295,8 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+
 
 .test {
   width: 200px;
