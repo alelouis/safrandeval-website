@@ -3,52 +3,36 @@ const content = {"safransec": {"title": "Safran Sec", "index": 1, "produit": {"s
 const modal = document.querySelector(".modal");
 const overlay = document.querySelector(".overlay");
 
-document.getElementById("selection_creationssucrees").style.textDecoration = "underline";
+document.getElementById("selection_siropgeleevinaigre").style.textDecoration = "underline";
 
-document.querySelector(".open-minimadeleine").addEventListener("click", function () {
-    document.querySelector(".modal-title").innerHTML = "Mini madeleines safranées - 100g";
-    document.querySelector(".modal-description").innerHTML = "Farine de blé Bio, sucre blanc, oeufs Bio, sel de Guérande, safran";
-    document.querySelector(".modal-price").innerHTML = "8,50 TTC€";
+document.querySelector(".open-sirop100ml").addEventListener("click", function () {
+    document.querySelector(".modal-title").innerHTML = "Sirop de safran - 100ml";
+    document.querySelector(".modal-description").innerHTML = "Sucre de canne liquide, safran.";
+    document.querySelector(".modal-price").innerHTML = "7,50€ TTC";
     modal.classList.remove("hidden");
             overlay.classList.remove("hidden");
         });
 
-document.querySelector(".open-cookies_amande_safran").addEventListener("click", function () {
-    document.querySelector(".modal-title").innerHTML = "Cookies amande safranées - 100g";
-    document.querySelector(".modal-description").innerHTML = "Cassonade, amande entières, farine de blé Bio, beurre doux, oeufs Bio, pouvre à lever, sel de Guérande, safran.";
-    document.querySelector(".modal-price").innerHTML = "8,50€ TTC";
+document.querySelector(".open-sirop250ml").addEventListener("click", function () {
+    document.querySelector(".modal-title").innerHTML = "Sirop de safran - 250ml";
+    document.querySelector(".modal-description").innerHTML = "Sucre de canne liquide, safran.";
+    document.querySelector(".modal-price").innerHTML = "14,00€ TTC";
     modal.classList.remove("hidden");
             overlay.classList.remove("hidden");
         });
 
-document.querySelector(".open-Croconoix").addEventListener("click", function () {
-    document.querySelector(".modal-title").innerHTML = "Croc’O Noix safranés - 100g";
-    document.querySelector(".modal-description").innerHTML = "Cassonade, noix de Touraine, beurre doux, farine de blé Bio, oeufs Bio, poudre à lever, sel de Guérande, safran.";
-    document.querySelector(".modal-price").innerHTML = "8,50 TTC€";
+document.querySelector(".open-gelee").addEventListener("click", function () {
+    document.querySelector(".modal-title").innerHTML = "Gelée de vin safranée - 100g";
+    document.querySelector(".modal-description").innerHTML = "Vin blanc local, sucre blanc, Agar Agar, safran.";
+    document.querySelector(".modal-price").innerHTML = "6,50€ TTC";
     modal.classList.remove("hidden");
             overlay.classList.remove("hidden");
         });
 
-document.querySelector(".open-tendreschocolats").addEventListener("click", function () {
-    document.querySelector(".modal-title").innerHTML = "Tendres chocolat safranés - 100g";
-    document.querySelector(".modal-description").innerHTML = "Farine de blé Bio, chocolat noir 65%, cassonade, beurre doux, oeufs Bio, cacao, sel de Guérande, safran.";
-    document.querySelector(".modal-price").innerHTML = "8,50€ TTC";
-    modal.classList.remove("hidden");
-            overlay.classList.remove("hidden");
-        });
-
-document.querySelector(".open-paletsraisins").addEventListener("click", function () {
-    document.querySelector(".modal-title").innerHTML = "Palets raisins safranés - 100g";
-    document.querySelector(".modal-description").innerHTML = "Cassonade, farine de blé Bio, beurre doux, oeufs Bio, raisins secs bruns, rhum brun, sel de Guérande, safran.";
-    document.querySelector(".modal-price").innerHTML = "8,50€ TTC";
-    modal.classList.remove("hidden");
-            overlay.classList.remove("hidden");
-        });
-
-document.querySelector(".open-tuiles_amandes_safran").addEventListener("click", function () {
-    document.querySelector(".modal-title").innerHTML = "Tuiles amandes safran - 100g";
-    document.querySelector(".modal-description").innerHTML = "Farine de blé, sucre blanc, amandes entières, beurre doux, oeufs Bio, sucre vanillé, sel de Guérande, amandes effilées, safran.";
-    document.querySelector(".modal-price").innerHTML = "8,50€ TTC";
+document.querySelector(".open-vinaigre").addEventListener("click", function () {
+    document.querySelector(".modal-title").innerHTML = "Vinaigre de cidre au safran - 250ml";
+    document.querySelector(".modal-description").innerHTML = "Vinaigre de cidre Bio, safran.";
+    document.querySelector(".modal-price").innerHTML = "8,90€ TTC";
     modal.classList.remove("hidden");
             overlay.classList.remove("hidden");
         });

@@ -1,4 +1,3 @@
-from jinja2 import Environment, FileSystemLoader
 import json
 import os
 
@@ -10,7 +9,8 @@ with open("mes_produits/data.json", "rb") as f:
 categories = {
     "safransec": ["Safran Sec", "safran_sec"],
     "creationsalees": ["Créations salées", "creations_salees"],
-    "creationssucrees": ["Créations sucrées", "creations_sucrees"]}
+    "creationssucrees": ["Créations sucrées", "creations_sucrees"],
+    "siropgeleevinaigre": ["Sirops, gelées & vinaigre", "sirop_gelee_vinaigre"]}
 
 for cat in categories:
     content = ""
@@ -18,12 +18,16 @@ for cat in categories:
     content += """const modal = document.querySelector(".modal");\n"""
     content += """const overlay = document.querySelector(".overlay");\n\n"""
 
+    content += f"""document.getElementById("selection_{cat}").style.textDecoration = "underline";\n\n"""
+
     for item, values in tabs[cat]["produit"].items():
         title = values["name"]
         description = values["description"]
+        tarif = values["tarif"]
         open_modal = f"""document.querySelector(".open-{item}")""" + """.addEventListener("click", function () {\n"""
         open_modal += f"""    document.querySelector(".modal-title").innerHTML = "{title}";\n"""
         open_modal += f"""    document.querySelector(".modal-description").innerHTML = "{description}";\n"""
+        open_modal += f"""    document.querySelector(".modal-price").innerHTML = "{tarif}";\n"""
         open_modal += """    modal.classList.remove("hidden");
             overlay.classList.remove("hidden");
         });\n\n"""

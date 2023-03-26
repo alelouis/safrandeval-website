@@ -7,7 +7,8 @@ os.chdir("/workspaces/safrandeval-website")
 categories = {
     "safransec": ["Safran Sec", "safran_sec"],
     "creationsalees": ["Créations salées", "creations_salees"],
-    "creationssucrees": ["Créations sucrées", "creations_sucrees"]}
+    "creationssucrees": ["Créations sucrées", "creations_sucrees"],
+    "siropgeleevinaigre": ["Sirops, gelées & vinaigre", "sirop_gelee_vinaigre"]}
 
 with open("mes_produits/data.json", "rb") as f:
     tabs = json.load(f)

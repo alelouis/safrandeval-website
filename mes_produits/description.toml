@@ -4,92 +4,113 @@ index = 1
     [safransec.produit.safran_sec_0_2g]
     class = "one"
     name = "Safran sec - 0.2g"
-    description = """Placeholder"""
-    image = "safran_sec_02g.jpg"
+    description = "Safran en filaments"
+    tarif = "8,50€ TTC "
+    image = "safran/safran_sec_02g.jpg"
     [safransec.produit.safran_sec_0_5g]
     class = "two"
     name = "Safran sec - 0.5g"
-    description = "Placeholder"
-    image = "safran_sec_05g.jpg"
+    description = "Safran en filaments (env. 220 filaments)"
+    tarif = "17,00€ TTC"
+    image = "safran/safran_sec_05g.jpg"
     [safransec.produit.safran_sec_1g]
     class = "three"
     name = "Safran sec - 1g"
-    description = "Placeholder"
-    image = "safran_sec_1g.jpg"
+    description = "Safran en filaments (env. 450 filaments)"
+    tarif = "30,00€ TTC"
+    image = "safran/safran_sec_1g.jpg"
     [safransec.produit.safran_sec_2g]
     class = "four"
     name = "Safran sec - 2g"
-    description = "Placeholder"
-    image = "safran_sec_2g.jpg"
-
+    description = "Safran en filaments"
+    tarif = "56,00€ TTC"
+    image = "safran/safran_sec_2g.jpg"
+    [safransec.produit.safran_sec_5g]
+    class = "five"
+    name = "Safran sec - 5g"
+    description = "Safran en filaments"
+    tarif = "100,00€ TTC"
+    image = "safran/safran_sec_5g.jpg"
 [creationssucrees]
 title = "Création sucrées"
 index = 2
     [creationssucrees.produit.minimadeleine]
     class = "one"
-    name = "Mini madeleines safranées"
+    name = "Mini madeleines safranées - 100g"
     description = "Farine de blé Bio, sucre blanc, oeufs Bio, sel de Guérande, safran"
+    tarif = "8,50 TTC€"
     image = "sucrees/minimad.jpg"
     [creationssucrees.produit.cookies_amande_safran]
     class = "two"
-    name = "Cookies amande safranées"
+    name = "Cookies amande safranées - 100g"
     description = "Cassonade, amande entières, farine de blé Bio, beurre doux, oeufs Bio, pouvre à lever, sel de Guérande, safran."
+    tarif = "8,50€ TTC"
     image = "sucrees/cookie.jpg"
     [creationssucrees.produit.Croconoix]
     class = "three"
-    name = "Croc’O Noix safranés"
+    name = "Croc’O Noix safranés - 100g"
     description = "Cassonade, noix de Touraine, beurre doux, farine de blé Bio, oeufs Bio, poudre à lever, sel de Guérande, safran."
+    tarif = "8,50 TTC€"
     image = "sucrees/croconoix.jpg"
     [creationssucrees.produit.tendreschocolats]
     class = "four"
-    name = "Tendres chocolat safranés"
+    name = "Tendres chocolat safranés - 100g"
     description = "Farine de blé Bio, chocolat noir 65%, cassonade, beurre doux, oeufs Bio, cacao, sel de Guérande, safran."
+    tarif = "8,50€ TTC"
     image = "sucrees/tendreschoco.jpg"
     [creationssucrees.produit.paletsraisins]
     class = "five"
-    name = "Palets raisins safranés"
+    name = "Palets raisins safranés - 100g"
     description = "Cassonade, farine de blé Bio, beurre doux, oeufs Bio, raisins secs bruns, rhum brun, sel de Guérande, safran."
+    tarif = "8,50€ TTC"
     image = "sucrees/palets.jpg"
+    [creationssucrees.produit.tuiles_amandes_safran]
+    class = "six"
+    name = "Tuiles amandes safran - 100g"
+    description = "Farine de blé, sucre blanc, amandes entières, beurre doux, oeufs Bio, sucre vanillé, sel de Guérande, amandes effilées, safran."
+    tarif = "8,50€ TTC" 
+    image = "sucrees/tuilesamande.jpg"
 
 [creationsalees]
 title = "Création salées"
 index = 3
-    [creationsalees.produit.safran_sec_0_2g]
+    [creationsalees.produit.biscuits_chorizo]
     class = "one"
-    name = "Safran sec - 0.2g"
-    description = "Placeholder"
-    image = "placeholder.png"
-    [creationsalees.produit.safran_sec_0_5g]
+    name = "Biscuits chorizo safran - 100g"
+    description = "Chorizo artisanal, farine de blé, flocons d’avoine, beurre doux, sel de Guérande, eau, Emmental, safran, herbe de Provence."
+    tarif = "4,50€ TTC"
+    image = "salees/biscuitschorizo.jpg"
+   [creationsalees.produit.tuiles_tomate]
     class = "two"
-    name = "Safran sec - 0.5g"
-    description = "Placeholder"
-    image = "placeholder.png"
-    [creationsalees.produit.safran_sec_1g]
-    class = "three"
-    name = "Safran sec - 1g"
-    description = "Placeholder"
-    image = "placeholder.png"
+    name = "Tuiles tomate safran - 100g"
+    description = "Tomates séchées, farine de blé Bio, beurre doux, oeufs Bio, sel de Guérande, sésame, piment de Cayenne, safran."
+    tarif = "4,50€ TTC"
+    image = "salees/tuilestomate.jpg"
 
-[jesaispas]
-title = "Je sais pas"
+[siropgeleevinaigre]
+title = "Sirop, gelée et vinaigre"
 index = 4
-    [jesaispas.produit.safran_sec_0_2g]
+    [siropgeleevinaigre.produit.sirop100ml]
     class = "one"
-    name = "Safran sec - 0.2g"
-    description = "Placeholder"
-    image = "placeholder.png"
-    [jesaispas.produit.safran_sec_0_5g]
+    name = "Sirop de safran - 100ml"
+    description = "Sucre de canne liquide, safran."
+    tarif = "7,50€ TTC"
+    image = "siropgeleevinaigre/sirop100.jpg"
+    [siropgeleevinaigre.produit.sirop250ml]
     class = "two"
-    name = "Safran sec - 0.5g"
-    description = "Placeholder"
-    image = "placeholder.png"
-    [jesaispas.produit.safran_sec_1g]
+    name = "Sirop de safran - 250ml"
+    description = "Sucre de canne liquide, safran."
+    tarif = "14,00€ TTC"
+    image = "siropgeleevinaigre/sirop250.jpg"
+    [siropgeleevinaigre.produit.gelee]
     class = "three"
-    name = "Safran sec - 1g"
-    description = "Placeholder"
-    image = "placeholder.png"
-    [jesaispas.produit.safran_sec_1g_2]
+    name = "Gelée de vin safranée - 100g"
+    description = "Vin blanc local, sucre blanc, Agar Agar, safran."
+    tarif = "6,50€ TTC"
+    image = "siropgeleevinaigre/gelee.jpg"
+    [siropgeleevinaigre.produit.vinaigre]
     class = "four"
-    name = "Safran sec - 1g"
-    description = "Placeholder"
-    image = "placeholder.png"
+    name = "Vinaigre de cidre au safran - 250ml"
+    description = "Vinaigre de cidre Bio, safran."
+    tarif = "8,90€ TTC"
+    image = "siropgeleevinaigre/vinaigre.jpg"
