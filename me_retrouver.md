@@ -41,3 +41,15 @@ N’hésitez pas à nous contacter au préalable par **mail ou téléphone** pou
 - **Pierre et Bertrand Couly**, Chinon (37500) - <a href="https://pb-couly.com/" target="_blank" style="color:blue"> Site internet </a>
 - **Domaine Brocourt**, Chinon (37500) - <a href="http://www.domaine-brocourt-chinon.fr/" target="_blank" style="color:blue"> Site internet </a>
 
+# En restauration
+
+- **Le Chapeau Rouge**, Chinon (37500) - <a href="https://www.auchapeaurouge.fr/" target="_blank" style="color:blue"> Site internet </a>
+- **Le Local**, Chinon (37500) - <a href="https://aulocalrestaurant.fr/" target="_blank" style="color:blue"> Site internet </a>
+- **La Table de Jeanne**, Chinon (37500) - <a href="https://latabledejeanne.eatbu.com/?lang=fr" target="_blank" style="color:blue"> Site internet </a>
+- **La Cabane à Matelot**, Bréhémont (37130)  - <a href="http://les-pecheries-ligeriennes.fr/restaurant-la-cabane-a-matelot.html" target="_blank" style="color:blue"> Site internet </a>
+- **Le Puits Doré**, Richelieu (37120) - <a href="https://www.lepuitsdore.fr/" target="_blank" style="color:blue"> Site internet </a>
+- **La Table d’Anabelle**, La Tour Saint Gelin (37120) - <a href="https://www.facebook.com/profile.php?id=100063564074122" target="_blank" style="color:blue"> Site internet </a>
+- **Liberté**, Neuillé-le-Lierre (37380)  - <a href="https://www.liberte-restaurant.fr/" target="_blank" style="color:blue"> Site internet </a>
+- **Le Petit Marmiton**, Sainte-Maure-de-Touraine (37800) - <a href="https://restaurant-le-petit-marmiton-sainte-maure-de-touraine.eatbu.com/?lang=fr" target="_blank" style="color:blue"> Site internet </a>
+- **L’Atelier Parcillon**, Parçay Meslay (37210) - <a href="https://www.atelier-parcillon.fr/" target="_blank" style="color:blue"> Site internet </a>
+- **Le Choiseuil**, Amboise (37400) - <a href="https://www.lechoiseulamboise.com/" target="_blank" style="color:blue"> Site internet </a>
