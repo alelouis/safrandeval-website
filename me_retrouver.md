@@ -6,11 +6,14 @@ permalink: /me_retrouver/
 
 # Les Visites
 
+<img class="ban" src="./visite.png">
+
 C’est avec plaisir que **nous vous accueillons sur l’exploitation** pour la découverte de la culture du safran ! Tout au long de l’année et plus particulièrement durant la période de la  récolte des fleurs, de fin septembre à fin octobre, et ce tous les jours, nous pouvons vous accueillir en **individuel, en famille ou par groupe de 20 personnes.**
 
-Puis, pendant **environ 2h**, selon vos envies, je vous partage : le mode cultural, nous irons cueillir quelques crocus dans la safranière, puis émonderons dans la salle d’accueil. Enfin, nous parlerons de l’utilisation du safran en cuisine et cela l’occasion de goûter quelques produits safranés. 
+Lors de votre visite, je vous présenterai le mode cultural de notre safranière, la cueillette des crocus ainsi que l’émondage en salle d’accueil.
+Enfin, j’évoquerai avec vous l’utilisation culinaire du safran avant de clore par une dégustation de nos produits safranés.
  
-N’hésitez pas à nous contacter au préalable par **mail ou téléphone** pour nous demander des renseignements et/ou prendre RV ! 
+N’hésitez pas à nous contacter au préalable par **mail (contact@safrandeval.fr) ou téléphone (06.28.35.69.91)** pour nous demander des renseignements et/ou prendre RV ! 
 
 # La Safranière
 
@@ -18,6 +21,12 @@ N’hésitez pas à nous contacter au préalable par **mail ou téléphone** pou
 
 # Mes partenaires
 
+<a href="https://www.sibylline-escapade.fr/" target="_blank">
+    <img class="ban" style="width:150px" src="./logos/siby.png">
+</a>
+<a href="https://www.atout-france.fr/services/le-label-vignobles-decouvertes/" target="_blank">
+    <img class="ban" style="width:150px" src="./logos/vignobles.png">
+</a>
 <a href="https://www.cducentre.com/" target="_blank">
     <img class="ban" style="width:150px" src="./logos/C_Centre-logo.png">
 </a>
@@ -27,6 +36,7 @@ N’hésitez pas à nous contacter au préalable par **mail ou téléphone** pou
 <a href="http://www.safrandetouraine.fr/" target="_blank">
     <img class="ban" style="width:150px" src="./logos/SafraniersTouraine-logo.png">
 </a>
+<img class="ban" style="width:150px" src="./logos/lpv.png">
 
 # Mes lieux de ventes
 
@@ -53,3 +63,4 @@ N’hésitez pas à nous contacter au préalable par **mail ou téléphone** pou
 - **Le Petit Marmiton**, Sainte-Maure-de-Touraine (37800) - <a href="https://restaurant-le-petit-marmiton-sainte-maure-de-touraine.eatbu.com/?lang=fr" target="_blank" style="color:blue"> Site internet </a>
 - **L’Atelier Parcillon**, Parçay Meslay (37210) - <a href="https://www.atelier-parcillon.fr/" target="_blank" style="color:blue"> Site internet </a>
 - **Le Choiseuil**, Amboise (37400) - <a href="https://www.lechoiseulamboise.com/" target="_blank" style="color:blue"> Site internet </a>
+- **JCL Restaurant**, Clermont-Ferrant (63000) - <a href="https://www.restaurant-jcl.com/" target="_blank" style="color:blue"> Site internet </a>

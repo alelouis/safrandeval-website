@@ -29,7 +29,7 @@ index = 1
     class = "five"
     name = "Safran sec - 5g"
     description = "Safran en filaments"
-    tarif = "100,00€ TTC"
+    tarif = "Pour plus de détails: contact@safrandeval.fr"
     image = "safran/safran_sec_5g.jpg"
 [creationssucrees]
 title = "Création sucrées"
@@ -38,37 +38,37 @@ index = 2
     class = "one"
     name = "Mini madeleines safranées - 100g"
     description = "Farine de blé Bio, sucre blanc, oeufs Bio, sel de Guérande, safran"
-    tarif = "8,50 TTC€"
+    tarif = "5,70 TTC€"
     image = "sucrees/minimad.jpg"
     [creationssucrees.produit.cookies_amande_safran]
     class = "two"
     name = "Cookies amande safranées - 100g"
     description = "Cassonade, amande entières, farine de blé Bio, beurre doux, oeufs Bio, pouvre à lever, sel de Guérande, safran."
-    tarif = "8,50€ TTC"
+    tarif = "5,70 TTC€"
     image = "sucrees/cookie.jpg"
     [creationssucrees.produit.Croconoix]
     class = "three"
     name = "Croc’O Noix safranés - 100g"
     description = "Cassonade, noix de Touraine, beurre doux, farine de blé Bio, oeufs Bio, poudre à lever, sel de Guérande, safran."
-    tarif = "8,50 TTC€"
+    tarif = "5,70 TTC€"
     image = "sucrees/croconoix.jpg"
     [creationssucrees.produit.tendreschocolats]
     class = "four"
     name = "Tendres chocolat safranés - 100g"
     description = "Farine de blé Bio, chocolat noir 65%, cassonade, beurre doux, oeufs Bio, cacao, sel de Guérande, safran."
-    tarif = "8,50€ TTC"
+    tarif = "5,70 TTC€"
     image = "sucrees/tendreschoco.jpg"
     [creationssucrees.produit.paletsraisins]
     class = "five"
     name = "Palets raisins safranés - 100g"
     description = "Cassonade, farine de blé Bio, beurre doux, oeufs Bio, raisins secs bruns, rhum brun, sel de Guérande, safran."
-    tarif = "8,50€ TTC"
+    tarif = "5,70 TTC€"
     image = "sucrees/palets.jpg"
     [creationssucrees.produit.tuiles_amandes_safran]
     class = "six"
-    name = "Tuiles amandes safran - 100g"
+    name = "Tuiles amandes safranées - 90g"
     description = "Farine de blé, sucre blanc, amandes entières, beurre doux, oeufs Bio, sucre vanillé, sel de Guérande, amandes effilées, safran."
-    tarif = "8,50€ TTC" 
+    tarif = "5,70 TTC€"
     image = "sucrees/tuilesamande.jpg"
 
 [creationsalees]

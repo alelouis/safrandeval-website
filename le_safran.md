@@ -23,7 +23,7 @@ L’émondage suivra rapidement dans la journée et consiste à **séparer les p
 <img class="ban" src="./emondage.jpg">
 
 <h1>Le séchage</h1> 
-Puis suivra le séchage : opération délicate qui conditionne la qualité organoleptique du safran et sa conservation ; on utilise pour cela un déshydrateur à plateaux qui permet au safran, en 20 à 40 min à 55 °C de lui faire perdre **80 % de son poids**.  
+Puis suivra le séchage : opération délicate qui conditionne la qualité organoleptique du safran et sa conservation ; on utilise pour cela un déshydrateur à plateaux qui permet au safran, en environ 40 min à 55 °C, de lui faire perdre **80 % de son poids**.  
 Il faut environ **150 à 180 fleurs** pour faire **1 gramme** de safran sec. Celui-ci révèlera son arôme une fois séché et sera consommable 2 mois après la récolte. Chaque année, notre safran est analysé auprès du laboratoire AnaScan conforme à la catégorie 1 de la norme ISO 3632-2.
 
 <img class="ban" src="./safran_seche.jpg">
