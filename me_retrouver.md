@@ -30,11 +30,15 @@ N’hésitez pas à nous contacter au préalable par **mail (contact@safrandeval
 <a href="https://www.cducentre.com/" target="_blank">
     <img class="ban" style="width:150px" src="./logos/C_Centre-logo.png">
 </a>
-<a href="https://www.entrepriseetdecouverte.fr/" target="_blank">
-    <img class="ban" style="width:150px" src="./logos/ED-logo.png">
+<a href="https://kdifermier.fr/" target="_blank">
+    <img class="ban" style="width:150px" src="./logos/kdifermier.png">
 </a>
 <a href="http://www.safrandetouraine.fr/" target="_blank">
     <img class="ban" style="width:150px" src="./logos/SafraniersTouraine-logo.png">
+</a>
+<img class="ban" style="width:100px" src="./logos/pnr.jpg">
+<a href="https://www.terres-gastronomie.fr/" target="_blank">
+    <img class="" style="width:200px" src="./logos/terre.png">
 </a>
 <img class="ban" style="width:150px" src="./logos/lpv.png">
 
@@ -44,7 +48,6 @@ N’hésitez pas à nous contacter au préalable par **mail (contact@safrandeval
 - **La Belle Touraine**, épicerie itinérante entre Ligueil, Loches et Richelieu - <a href="https://www.labelletouraine.net/" target="_blank" style="color:blue"> Site internet </a>
 - **La Charette**, Chambray-lès-Tours (37170) - <a href="https://www.facebook.com/la.charrette.chambray/?locale=fr_FR" target="_blank" style="color:blue"> Site internet </a>
 - **Couleurs Gourmandes**, Fondettes (37230) - <a href="https://www.maisonbalme.com/magasins/epicerie-couleurs-gourmandes-54" target="_blank" style="color:blue"> Site internet </a>
-- **Epicerie Picotti**, Fondettes (37230) - <a href="https://www.facebook.com/people/Epicerie-Picotti-Fondettes/100069180484625/?paipv=0&eav=AfY5TkDUo74Iw1dRBfijxqT0FfK2fLOTkm8diH3FrESfcTUyJjGyv4lRMTvlseW7-PQ&_rdr" target="_blank" style="color:blue"> Site internet </a>
 - **La Cave de Sibylle**, Panzoult (37220) - <a href="https://www.facebook.com/cavepanzoult/?locale=fr_FR" target="_blank" style="color:blue"> Site internet </a>
 - **La Fabrique de Parcius**, Parcay-sur-Vienne (37220)  - <a href="https://lafabriquedeparcius.com/" target="_blank" style="color:blue"> Site internet </a>
 - **Domaine de Noiré**, Chinon (37500) - <a href="https://domainedenoire.fr/" target="_blank" style="color:blue"> Site internet </a>
@@ -53,7 +56,6 @@ N’hésitez pas à nous contacter au préalable par **mail (contact@safrandeval
 
 # En restauration
 
-- **Le Chapeau Rouge**, Chinon (37500) - <a href="https://www.auchapeaurouge.fr/" target="_blank" style="color:blue"> Site internet </a>
 - **Le Local**, Chinon (37500) - <a href="https://aulocalrestaurant.fr/" target="_blank" style="color:blue"> Site internet </a>
 - **La Table de Jeanne**, Chinon (37500) - <a href="https://latabledejeanne.eatbu.com/?lang=fr" target="_blank" style="color:blue"> Site internet </a>
 - **La Cabane à Matelot**, Bréhémont (37130)  - <a href="http://les-pecheries-ligeriennes.fr/restaurant-la-cabane-a-matelot.html" target="_blank" style="color:blue"> Site internet </a>
@@ -61,6 +63,7 @@ N’hésitez pas à nous contacter au préalable par **mail (contact@safrandeval
 - **La Table d’Anabelle**, La Tour Saint Gelin (37120) - <a href="https://www.facebook.com/profile.php?id=100063564074122" target="_blank" style="color:blue"> Site internet </a>
 - **Liberté**, Neuillé-le-Lierre (37380)  - <a href="https://www.liberte-restaurant.fr/" target="_blank" style="color:blue"> Site internet </a>
 - **Le Petit Marmiton**, Sainte-Maure-de-Touraine (37800) - <a href="https://restaurant-le-petit-marmiton-sainte-maure-de-touraine.eatbu.com/?lang=fr" target="_blank" style="color:blue"> Site internet </a>
-- **L’Atelier Parcillon**, Parçay Meslay (37210) - <a href="https://www.atelier-parcillon.fr/" target="_blank" style="color:blue"> Site internet </a>
 - **Le Choiseuil**, Amboise (37400) - <a href="https://www.lechoiseulamboise.com/" target="_blank" style="color:blue"> Site internet </a>
 - **JCL Restaurant**, Clermont-Ferrant (63000) - <a href="https://www.restaurant-jcl.com/" target="_blank" style="color:blue"> Site internet </a>
+- **Jardin Secret**, Château du Rivau (37120) - <a href="https://www.chateaudurivau.com/fr/restaurant-gastronomique.php" target="_blank" style="color:blue"> Site internet </a>
+- **Arbore et Sens**, Loches (37600) - <a href="https://restaurant-arbore-et-sens.fr/" target="_blank" style="color:blue"> Site internet </a>
