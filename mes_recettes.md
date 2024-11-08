@@ -16,6 +16,10 @@ En recettes salées et ou sucrées, compter **3-4 filaments par personne**.
 
 # Quelques idées de recettes
 
+
+- <a href="./Recette_SafranDeVal_QuicheSaumonSafran.pdf" target="_blank" style="color:rgb(147, 41, 41)"> **Quiche au saumon et au safran** </a> - <a href="./Recette_SafranDeVal_QuicheSaumonSafran.pdf" target="_blank" style="color:blue"> Télécharger au format PDF </a>
+- <a href="./Recette_SafranDeVal_VeloutéDeCourgettesAuSafran.pdf" target="_blank" style="color:rgb(147, 41, 41)"> **Velouté de courgettes au safran** </a> - <a href="./Recette_SafranDeVal_VeloutéDeCourgettesAuSafran.pdf" target="_blank" style="color:blue"> Télécharger au format PDF </a>
+- <a href="./Recette_SafranDeVal_LotteAuSafran.pdf" target="_blank" style="color:rgb(147, 41, 41)"> **Lotte au safran** </a> - <a href="./Recette_SafranDeVal_LotteAuSafran.pdf" target="_blank" style="color:blue"> Télécharger au format PDF </a>
 - <a href="./Recette_SafranDeVal_RisottoButternut.pdf" target="_blank" style="color:rgb(147, 41, 41)"> **Risotto à la courge butternut et au safran** </a> - <a href="./Recette_SafranDeVal_RisottoButternut.pdf" target="_blank" style="color:blue"> Télécharger au format PDF </a>
 - <a href="./Recette_SafranDeVal_CrumbleCrevettes.pdf" target="_blank" style="color:rgb(147, 41, 41)"> **Crumble de crevettes au safran** </a> - <a href="./Recette_SafranDeVal_CrumbleCrevettes.pdf" target="_blank" style="color:blue"> Télécharger au format PDF </a>
 - <a href="./Recette_SafranDeVal_GratinFramboises.pdf" target="_blank" style="color:rgb(147, 41, 41)"> **Gratin de framboises au safran** </a> - <a href="./Recette_SafranDeVal_GratinFramboises.pdf" target="_blank" style="color:blue"> Télécharger au format PDF </a>
